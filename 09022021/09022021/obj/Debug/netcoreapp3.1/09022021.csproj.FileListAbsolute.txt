@@ -1,0 +1,13 @@
+C:\Users\V-COMP\Desktop\p219_09-02-2021-aykhansm\09022021\09022021\bin\Debug\netcoreapp3.1\09022021.exe
+C:\Users\V-COMP\Desktop\p219_09-02-2021-aykhansm\09022021\09022021\bin\Debug\netcoreapp3.1\09022021.deps.json
+C:\Users\V-COMP\Desktop\p219_09-02-2021-aykhansm\09022021\09022021\bin\Debug\netcoreapp3.1\09022021.runtimeconfig.json
+C:\Users\V-COMP\Desktop\p219_09-02-2021-aykhansm\09022021\09022021\bin\Debug\netcoreapp3.1\09022021.runtimeconfig.dev.json
+C:\Users\V-COMP\Desktop\p219_09-02-2021-aykhansm\09022021\09022021\bin\Debug\netcoreapp3.1\09022021.dll
+C:\Users\V-COMP\Desktop\p219_09-02-2021-aykhansm\09022021\09022021\bin\Debug\netcoreapp3.1\09022021.pdb
+C:\Users\V-COMP\Desktop\p219_09-02-2021-aykhansm\09022021\09022021\obj\Debug\netcoreapp3.1\09022021.csprojAssemblyReference.cache
+C:\Users\V-COMP\Desktop\p219_09-02-2021-aykhansm\09022021\09022021\obj\Debug\netcoreapp3.1\09022021.AssemblyInfoInputs.cache
+C:\Users\V-COMP\Desktop\p219_09-02-2021-aykhansm\09022021\09022021\obj\Debug\netcoreapp3.1\09022021.AssemblyInfo.cs
+C:\Users\V-COMP\Desktop\p219_09-02-2021-aykhansm\09022021\09022021\obj\Debug\netcoreapp3.1\09022021.csproj.CoreCompileInputs.cache
+C:\Users\V-COMP\Desktop\p219_09-02-2021-aykhansm\09022021\09022021\obj\Debug\netcoreapp3.1\09022021.dll
+C:\Users\V-COMP\Desktop\p219_09-02-2021-aykhansm\09022021\09022021\obj\Debug\netcoreapp3.1\09022021.pdb
+C:\Users\V-COMP\Desktop\p219_09-02-2021-aykhansm\09022021\09022021\obj\Debug\netcoreapp3.1\09022021.genruntimeconfig.cache
